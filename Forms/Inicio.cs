@@ -9,7 +9,7 @@ public partial class Inicio : Form
 
     private void CadastroSocio_Click(object sender, EventArgs e)
     {
-
+        
     }
 
     private void CadastroDependente_Click(object sender, EventArgs e)
