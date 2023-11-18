@@ -59,30 +59,35 @@
             CadastroSocio.Name = "CadastroSocio";
             CadastroSocio.Size = new Size(180, 22);
             CadastroSocio.Text = "Sócio";
+            CadastroSocio.Click += CadastroSocio_Click;
             // 
             // CadastroDependente
             // 
             CadastroDependente.Name = "CadastroDependente";
             CadastroDependente.Size = new Size(180, 22);
             CadastroDependente.Text = "Dependente";
+            CadastroDependente.Click += CadastroDependente_Click;
             // 
             // CadastroFornecedor
             // 
             CadastroFornecedor.Name = "CadastroFornecedor";
             CadastroFornecedor.Size = new Size(180, 22);
             CadastroFornecedor.Text = "Fornecedor";
+            CadastroFornecedor.Click += CadastroFornecedor_Click;
             // 
             // CadastroEspaco
             // 
             CadastroEspaco.Name = "CadastroEspaco";
             CadastroEspaco.Size = new Size(180, 22);
             CadastroEspaco.Text = "Espaço";
+            CadastroEspaco.Click += CadastroEspaco_Click;
             // 
             // CadastroAtividade
             // 
             CadastroAtividade.Name = "CadastroAtividade";
             CadastroAtividade.Size = new Size(180, 22);
             CadastroAtividade.Text = "Atividade";
+            CadastroAtividade.Click += CadastroAtividade_Click;
             // 
             // Inicio
             // 
